@@ -1,3 +1,4 @@
+fix bug 101
 add merge
 Creating a new branch is quick and simple.
 Creating a new branch is quick.
