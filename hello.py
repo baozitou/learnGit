@@ -1,3 +1,4 @@
+add utf-8
 add some code
 " ============================================================================
 " Netrw Directory Listing                                        (netrw v140)
